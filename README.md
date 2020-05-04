@@ -1,4 +1,4 @@
-# Soultions-of-Starting-out-with-c-programming-challenges
+# Soultions-of-Starting-out-with-c++-programming-challenges
 These are the first six chapters solutions which are tested in Visual Studio 2015.
 The rest of the chapters will be done soon in the future Inshallah.
 The programs are tested in vs studio express 2015 and are checked but as being human there can be a
